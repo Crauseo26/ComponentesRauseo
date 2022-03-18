@@ -1,0 +1,10 @@
+.row{
+  --bs-gutter-x: 0;
+  --bs-gutter-y: 0;
+  text-align: center;
+  background-color: #212529;
+}
+
+p{
+  color: #dae200;
+}
