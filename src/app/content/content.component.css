@@ -1,0 +1,31 @@
+.row {
+  --bs-gutter-x: 0;
+  --bs-gutter-y: 0;
+}
+
+.card-group{
+  column-gap: 3rem;
+  row-gap: 1rem;
+  margin-top: 4rem;
+  justify-content: center;
+}
+
+.content-tittle{
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.card {
+  min-width: 15rem;
+  max-width: 20rem;
+  background-color: #212529;
+  color: whitesmoke;
+  border: 0px;
+  box-shadow: black;
+}
+
+.onBoard-button{
+  color: #dae200;
+}

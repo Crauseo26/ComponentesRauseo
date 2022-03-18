@@ -1,0 +1,21 @@
+.brand-logo {
+  margin-left: 1.2rem;
+  max-height: 75px;
+  max-width: 115px;
+}
+
+.collapse{
+  justify-content: right;
+}
+
+.navbar-links{
+  padding-right: 2.5rem;
+
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: rgba(255,255,255,.55);
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: #dae200;
+}

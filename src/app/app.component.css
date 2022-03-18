@@ -1,0 +1,22 @@
+.container-fluid{
+  padding: 0;
+
+}
+
+.row{
+  --bs-gutter-x: 0;
+  --bs-gutter-y: 0;
+}
+
+.content-wrapper{
+  height: 88.2vh;
+}
+
+.content {
+  padding-left: 4rem;
+  padding-top: 2.5rem;
+}
+
+.footer{
+  align-self: flex-end;
+}
